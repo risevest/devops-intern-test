@@ -7,7 +7,7 @@ We just need to confirm you have what it takes. Good luck
 * When you finish, send us link to your repository and wait for an answer
 
 ## Prerequisites
--- [Nginx Configs](https://www.nginx.com/)
+- [Nginx Configs](https://www.nginx.com/)
 
 
 ## Testing the application
