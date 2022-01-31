@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('backend-intern-test:server');
+var debug = require('debug')('devops-intern-test:server');
 var http = require('http');
 
 /**
